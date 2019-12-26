@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <map>
-#include "Figures.hpp"
+#include "figures.hpp"
 
 enum { 
     ERR, CLASS,
